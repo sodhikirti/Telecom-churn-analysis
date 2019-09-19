@@ -32,17 +32,17 @@ Libraries imported
 
 3.	Data Pre-processing
 
-a.	Handling missing values
+	a.	Handling missing values
 
-b.	Handling categorical values
+	b.	Handling categorical values
 
-c.	Checking Multicollinearlity
+	c.	Checking Multicollinearlity
 
 4.	Building Machine learning models
 
-a.	Splitting into test and train data sets
+	a.	Splitting into test and train data sets
 
-b.	Models used: Logistic Regression, Random Forest
+	b.	Models used: Logistic Regression, Random Forest
 
 5.	Evaluating Models
 
